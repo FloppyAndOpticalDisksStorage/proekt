@@ -75,6 +75,7 @@ article {
     background-color: gold;
     display: flex;
     width: 400px;
+    writing-mode: vertical-rl;
 }
 .article-but {
     text-decoration: none;

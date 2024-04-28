@@ -64,7 +64,16 @@ article {
     width: 400px;
     margin: 40px;
 }
-
+.scrapyard-main {
+    font: Arial;
+}
+.scrapyard-div {
+    border: black 2px solid;
+    border-radius: 10%;
+    background-color: gold;
+    display: flex;
+    width: 400px;
+}
 .article-but {
     text-decoration: none;
     background-color: #133AAC;

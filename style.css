@@ -1,3 +1,4 @@
+
 body {
     font-family: sans-serif;
     background-color: black;
@@ -37,14 +38,15 @@ nav {
     color: white;
     text-decoration: none;
 }
-
 h1 {
-    text-align: center;
+    text-align: justify;
     font-size: 36px;
     margin-top: 60px;
     margin-bottom: 60px;
 }
-
+.scrapyard-div-h1 {
+    text-align: center;
+}
 p {
     font-size: 24px;
 }

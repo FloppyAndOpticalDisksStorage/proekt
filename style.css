@@ -71,7 +71,7 @@ article {
 }
 .scrapyard-div {
     border: black 2px solid;
-    border-radius: 10%;
+    border-radius: 2%;
     background-color: gold;
     display: flex;
     width: 400px;

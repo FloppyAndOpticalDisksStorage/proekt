@@ -76,6 +76,7 @@ article {
     display: flex;
     width: 400px;
     writing-mode: vertical-rl;
+    text-orientation: upright;
 }
 .article-but {
     text-decoration: none;

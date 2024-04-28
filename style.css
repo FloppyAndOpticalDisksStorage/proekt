@@ -1,4 +1,3 @@
-
 body {
     font-family: sans-serif;
     background-color: black;
@@ -11,7 +10,11 @@ header {
     margin-bottom: 20px;
     align-items: center;
 }
-
+.center-button {
+    margin-left: 50%;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
 .button {
     background-color: #36bbce;
     color: black;

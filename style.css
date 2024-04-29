@@ -80,7 +80,7 @@ article {
     width: 400px;
     flex-wrap: wrap;
 }
-.scrapyard-div::before {
+.scrapyard-div-h1::before {
     content: url("https://lms.syam-ok.unm.ac.id/pluginfile.php/1233771/course/overviewfiles/B.png");
     width: 30px;
     height: 15px;

@@ -80,6 +80,13 @@ article {
     width: 400px;
     flex-wrap: wrap;
 }
+.scrapyard-div::before {
+    content: url("https://lms.syam-ok.unm.ac.id/pluginfile.php/1233771/course/overviewfiles/B.png");
+    width: 30px;
+    height: 15px;
+    display: block;
+    margin-bottom: 10px;
+}
 .article-but {
     text-decoration: none;
     background-color: #133AAC;

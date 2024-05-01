@@ -28,10 +28,6 @@ header {
     border-radius: 10px;
 }
 
-main img {
-    min-height: 270px;
-}
-
 nav {
     border-top: 5px solid white;
     border-bottom: 5px solid white;

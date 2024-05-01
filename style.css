@@ -80,9 +80,7 @@ article {
     border: black 2px solid;
     border-radius: 2%;
     background-color: gold;
-    display: flex;
     width: 400px;
-    flex-wrap: wrap;
 }
 .scrapyard-div-h1::before {
     content: url(https://lms.syam-ok.unm.ac.id/pluginfile.php/1233771/course/overviewfiles/B.png);

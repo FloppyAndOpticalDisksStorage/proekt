@@ -82,7 +82,7 @@ article {
     background-color: gold;
     width: 400px;
 }
-.scrapyard-div-h1::before {
+.scrapyard-div::before {
     content: url(https://lms.syam-ok.unm.ac.id/pluginfile.php/1233771/course/overviewfiles/B.png);
     width: 30px;
     height: 15px;

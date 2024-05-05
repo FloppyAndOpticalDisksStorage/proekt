@@ -27,20 +27,6 @@ header {
     font-size: 24px;
     border-radius: 10px;
 }
-
-nav {
-    border-top: 5px solid white;
-    border-bottom: 5px solid white;
-    padding: 25px 100px 25px 95px;
-    justify-content: space-between;
-    display: flex;
-}
-
-.nav-link {
-    font-size: 24px;
-    color: white;
-    text-decoration: none;
-}
 h1 {
     text-align: justify;
     font-size: 36px;

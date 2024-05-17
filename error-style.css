@@ -1,1 +1,18 @@
-
+body {
+  font-family: "Open Sans", sans-serif;
+  background: black;
+}
+.error-type {
+  font-size: 15px;
+  font-style: bolder;
+}
+.general-error-container {
+  display: flex;
+  width: 150px;
+  height: 300px;
+  justify-content: center;
+}
+.error-text {
+  font-size: 10px;
+  color: snow;
+}

@@ -8,8 +8,8 @@ body {
 }
 .general-error-container {
   display: flex;
-  width: 600px;
-  height: 1200px;
+  width: 1000px;
+  height: 1600px;
   justify-content: center;
 }
 .error-text {
